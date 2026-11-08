@@ -22,6 +22,6 @@ I turn complex business data and analytics into scalable product decisions.
 
 ### 📡 Find Me
 
-<a href="https://catalinacortes.co"><img src="https://img.shields.io/badge/Newsletter-catalinacortes.co-orange?style=flat-square&logo=substack&logoColor=white" alt="Newsletter"></a>
 <a href="https://www.linkedin.com/in/catalina-cortes-gutierrez"><img src="https://img.shields.io/badge/LinkedIn-Catalina_Cortés-green?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://catalinacortes.co"><img src="https://img.shields.io/badge/Website-catalinacortes.co-B19CD9?style=flat-square" alt="Website"></a>
+<a href="https://catalinacortes.co"><img src="https://img.shields.io/badge/Newsletter-catalinacortes.co-orange?style=flat-square&logo=substack&logoColor=white" alt="Newsletter"></a>
