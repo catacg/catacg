@@ -4,8 +4,6 @@ I turn complex business data and analytics into scalable product decisions.
 
 I'm a Senior Product Manager with an MSc in Business Analytics from Warwick Business School, specializing in data-driven growth. 10+ years driving product strategy, growth, and analytics across high-growth startups and tech environments. Currently, I'm building data analysis applications using Claude Code and the Agent SDK.
 
-🔗 **Substack & Writing:** [catalinacortes.co](https://catalinacortes.co)
-
 ---
 
 ### How I work
