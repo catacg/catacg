@@ -1,7 +1,7 @@
 ### Hi, I'm Catalina 👋
 
+I love diving into analytics to connect the dots between user behavior and what makes a product tick.
 I'm a Senior Product Manager with 10+ years driving product strategy and analytics across high-growth startups and tech environments.
-I turn complex business data and analytics into scalable product decisions. 
 
 ---
 
