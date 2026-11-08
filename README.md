@@ -21,6 +21,8 @@ I'm a Senior Product Manager with an MSc in Business Analytics from Warwick Busi
 
 ---
 
-### Let's connect
+### 📡 Find Me
 
-[LinkedIn](https://www.linkedin.com/in/catalina-cortes-gutierrez) · [Website](https://catalinacortes.co) · [Substack](https://catalinacortes.co)
+<a href="https://catalinacortes.co"><img src="https://img.shields.io/badge/Newsletter-catalinacortes.co-FF6719?style=flat-square&logo=substack&logoColor=white" alt="Newsletter"></a>
+<a href="https://www.linkedin.com/in/catalina-cortes-gutierrez"><img src="https://img.shields.io/badge/LinkedIn-Catalina_Cortés-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:catalinacorgut@gmail.com"><img src="https://img.shields.io/badge/Email-catalinacorgut@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
